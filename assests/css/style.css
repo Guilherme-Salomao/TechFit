@@ -1,0 +1,27 @@
+/*----------------------------------------------------------------------*/
+/* MENU DO SITE */
+/*----------------------------------------------------------------------*/
+.menu .nav-item a{
+    color: white;
+}
+.menu .nav-item a:hover{
+    color: #ffc107;
+}
+.menu .nav-item .active{
+    color: #ffc107 !important;
+}
+.menu .nav-item .disabled{
+    color: #aaa;
+}
+.nav-pills .active {
+    background-color: #ffc107 !important;
+}
+.nav-pills .nav-link{
+    color: #aaa;
+}
+.nav a:hover{
+    color: #ffc107 !important;
+}
+.nav-pills .disabled{
+    color: #ececec !important;
+}
