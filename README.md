@@ -26,17 +26,6 @@ Bootstrap 5 - Framework para criação do layout responsivo.
 
 GitHub Pages - Hospedagem gratuita do site.
 
-📂 Estrutura de Arquivos
-
-TechFit/
-│── index.html         # Página principal
-│── assets/
-│   ├── css/
-│   │   ├── style.css  # Arquivo de estilos personalizados
-│   ├── img/           # Imagens utilizadas no site
-│   ├── js/
-│   │   ├── script.js  # Arquivo JavaScript para interatividade (se necessário)
-
 🚀 Funcionalidades Implementadas
 
 ✅ Layout responsivo com Bootstrap Grid
