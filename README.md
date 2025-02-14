@@ -4,7 +4,7 @@ TechFit - Primeiro Site com Bootstrap 🎉
 
 TechFit é o primeiro projeto desenvolvido pelos alunos utilizando Bootstrap 5, com o objetivo de aprender a criar páginas web responsivas e bem estruturadas. O site foi construído como parte das aulas práticas de desenvolvimento web, abordando desde a estrutura básica até a personalização de estilos.
 
-🌐 Link do Site: TechFit - GitHub Pages
+🌐 Link do Site: TechFit - [GitHub Pages](https://guilherme-salomao.github.io/TechFit/)
 
 🎯 Objetivos do Projeto
 
